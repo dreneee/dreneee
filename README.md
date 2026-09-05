@@ -15,6 +15,9 @@
 
 ### 👨‍💻 About Me
 - 🔭 Python Developer focused on **Backend Development & Web Scraping**
+- 🛠️ Building scalable APIs, automation tools, and data scrapers
+- 🌱 Currently exploring Advanced Web Scraping & Backend Architecture
+- ⚡ Turning complex data into clean, usable solutions
 
 ### 🛠️ Tech Stack
 
@@ -30,7 +33,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dreneee&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreneee&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
 </p>
 
 <p align="center">
