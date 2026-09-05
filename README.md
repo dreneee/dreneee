@@ -15,9 +15,6 @@
 
 ### 👨‍💻 About Me
 - 🔭 Python Developer focused on **Backend Development & Web Scraping**
-- 🛠️ Building scalable APIs, automation tools, and data scrapers
-- 🌱 Currently exploring Advanced Web Scraping & Backend Architecture
-- ⚡ Turning complex data into clean, usable solutions
 
 ### 🛠️ Tech Stack
 
@@ -32,16 +29,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AldreneAguilar&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldreneAguilar&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dreneee&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreneee&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AldreneAguilar&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreneee&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://github.com/AldreneAguilar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/dreneee"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:aldreneaguilar2124@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
