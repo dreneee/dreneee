@@ -31,9 +31,6 @@
 `Git`
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dreneee&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreneee&theme=tokyonight&hide_border=true" alt="streak stats" />
