@@ -1,31 +1,47 @@
-<div>
-
-<div align="center">
-<img src="https://i.imgur.com/vCdkZec.gif" width="200">
-  
-<div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=0.0001&pause=&color=9842F5&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Aldrene+Aguilar" alt="Typing SVG" />
-<hr style="border-color:white;">
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9842F5&center=true&vCenter=true&random=false&width=700&lines=Hello%2C+I'm+Aldrene+A.+Aguilar;An+aspiring+Java+%7C+Spring+Boot+Developer;Open+for+any+role+involving+Java" alt="" /> -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9842F5&center=true&vCenter=true&random=false&width=700&lines=Hello%2C+I'm+Aldrene+A.+Aguilar;" alt="" />
-</div>
-
-</div>
+<!-- Typing Animation -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/aldrene-aguilar/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=7950F2"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://facebook.com/aldrenevil"><img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/?size=100&id=8818&format=png&color=7950F2"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/aldrenevil"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://img.icons8.com/?size=100&id=8289&format=png&color=7950F2"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+Aldrene+Aguilar;Python+Developer;Backend+%26+Web+Scraping+Specialist" alt="Typing SVG" /></a>
 </p>
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreneee&theme=midnight-purple&hide_border=true" alt="dreneee's Streak" />
-</p> -->
 
-</div>
+<h3 align="center">Python Developer | Backend & Web Scraping</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
 
+---
 
+### 👨‍💻 About Me
+- 🔭 Python Developer focused on **Backend Development & Web Scraping**
+- 🛠️ Building scalable APIs, automation tools, and data scrapers
+- 🌱 Currently exploring Advanced Web Scraping & Backend Architecture
+- ⚡ Turning complex data into clean, usable solutions
 
+### 🛠️ Tech Stack
 
+**Backend:**
+`Python` `FastAPI` `Django Rest Framework` `Flask` `PostgreSQL` `MySQL` `Docker` 
+
+**Web Scraping:**
+`Selenium` `Patchwright` `Automation`
+
+**Tools:**
+`Git`
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AldreneAguilar&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldreneAguilar&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AldreneAguilar&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://github.com/AldreneAguilar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:aldreneaguilar2124@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
